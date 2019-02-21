@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  transition: all 0.5s;
+  font-family: Consolas, Courier, monospace;
+  color: rgb(156, 220, 254);
+}
+
+.code {
+  height: 90vh;
+  overflow: hidden;
+}
+
+
+.token.comment{
+  color: rgb(156, 220, 254);
+}
+
+.token.selector {
+  color: rgb(156, 220, 254);
+}
+
+.token.punctuation {
+  color: rgb(156, 220, 254);
+
+}
+
+.token.property {
+  color: rgb(156, 220, 254);
+}
+
+.token.function {
+  color: rgb(156, 220, 254);
+}
